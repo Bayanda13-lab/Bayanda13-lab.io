@@ -2,7 +2,7 @@
 BAYANDA VUNDLA
 ---
 
-ASPIRING NETWORK ENGINEER,CYBERSECURITY SPECIALIST
+ASPIRING NETWORK ENGINEER,CYBERSECURITY SPECIALIST ,CLOUD ENGINEER 
 
 [Link LINKEDIN]https://www.linkedin.com/in/bayanda-vundla-8963373b7/.
 
@@ -21,11 +21,27 @@ ASPIRING NETWORK ENGINEER,CYBERSECURITY SPECIALIST
 
 
 
-## CERTIFICATES
+# CERTIFICATES
 CompTIA IT Operations Specialist – CIOS Stackable Certification:https://www.credly.com/badges/a4fccec1-9b04-491b-ab8d-b3ca79d7ff63/linked_in_profile
 
-Rolls-Royce: Future-Ready Skills - delivered by Springpod:https://space.springpod.com/certificate/sg0i6yiouvgs/share
+Rolls-Royce: Future-Ready Skills - delivered by Springpod:https://space.springpod.com/certificate/sg0i6yiouvgs/sha
 
+## PROJECTS TO COME
+hackthebox challenges.
 
-`
+cisco packet tracer.
 
+honeypot and threat detection .
+
+microsoft sentinal .
+
+AND MANY MORE
+
+## COURSE 
+HACKTHEBOX Academy.
+
+Anthropic AI fluency.
+
+Amazon:on cloud nine -cloud computing work experience
+
+CS50:introduction to computer science by Harvard University

@@ -11,7 +11,12 @@ ASPIRING NETWORK ENGINEER,CYBERSECURITY SPECIALIST
 
 
 # PROJECTS
-https://github.com/Bayanda13-lab/Finding-out-what-is-already-out-there/issues/1#issue-4383853931
+1)audit report:https://github.com/Bayanda13-lab/Finding-out-what-is-already-out-there/issues/1#issue-4383853931
+
+2)play simulator game that simulates real world tech issues:<img width="1600" height="900" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/b8bfa474-c461-4444-a59a-45938794f603" />
+
+3)building physical home lab
+
 
 
 
